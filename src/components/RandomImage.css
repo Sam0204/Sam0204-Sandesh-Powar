@@ -1,0 +1,13 @@
+.random-image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center the content vertically */
+  align-items: center; /* Center the content horizontally */
+  height: 100vh; /* Set the container height to 100% of the viewport height */
+}
+
+.random-image {
+  max-width: 80%; /* Limit the image width to 80% of its container */
+  max-height: 80%; /* Limit the image height to 80% of its container */
+  object-fit: contain; /* Maintain aspect ratio and fit the image within its container */
+}
