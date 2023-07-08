@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sam0204-Sandesh-Powar/static/css/main.b1c75714.css",
+    "main.js": "/Sam0204-Sandesh-Powar/static/js/main.86b2dc3d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Sam0204-Sandesh-Powar/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Sam0204-Sandesh-Powar/index.html",
+    "main.b1c75714.css.map": "/Sam0204-Sandesh-Powar/static/css/main.b1c75714.css.map",
+    "main.86b2dc3d.js.map": "/Sam0204-Sandesh-Powar/static/js/main.86b2dc3d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Sam0204-Sandesh-Powar/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c75714.css",
+    "static/js/main.86b2dc3d.js"
+  ]
+}
